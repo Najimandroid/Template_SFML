@@ -46,7 +46,7 @@ Designed to get you started quickly with a clean architecture for 2D game develo
 ### Steps
 
 1. Clone the repository:
-   git clone https://github.com/Najimandroid/Template_SFML_.git
+   git clone https://github.com/Najimandroid/Template_SFML.git
 
 2. Generate the build files:
 	cd SFML_Template
