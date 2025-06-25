@@ -1,0 +1,26 @@
+# .gitignore
+
+# Visual Studio cache
+.vs/
+
+# CMake and build folders
+out/
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Visual Studio generated files
+*.VC.db
+*.VC.opendb
+
+# Executables and libraries
+*.exe
+*.lib
+*.dll
+*.pdb
+
+# User-specific files
+*.user
+*.suo
