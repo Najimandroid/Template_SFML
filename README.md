@@ -54,3 +54,6 @@ Designed to get you started quickly with a clean architecture for 2D game develo
 
 3. Build:
 	cmake --build build
+
+4. Change Project Name:
+	you can change the second line of CMakeLists.txt to "project(your_project_name)"
